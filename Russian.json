@@ -570,7 +570,7 @@
 			"snare": ["", "Ловушка", "A short pole pushed into the ground with a string attached. Designed to ensnare creatures in its slipknot."],
 			"waterskinOfMedicinalWater": ["", "Бурдюк с лекарством", "A soothing mixture of plants and roots. Used to heal poisons and illnesses.", "waterskins of medicinal water"],
 			"charcoalBandage": ["", "Угольная повязка", "A cloth bandage, coated in charcoal and used for its natural antiseptic and anticoagulant properties."],
-			"woodenTongs": ["", "Деревнные щипцы", "A pair of simple wood tongs, used to pick up hot objects without injury."],
+			"woodenTongs": ["", "Деревянные щипцы", "A pair of simple wood tongs, used to pick up hot objects without injury."],
 			"wroughtIronTongs": ["", "Кованные железные щипцы", "A pair of tongs, forged from wrought iron. Used to lift hot objects without injury."],
 			"sheetOfGlass": ["", "Лист стекла", "A cloudy tempered piece of glass. Practical for many optical tools and other simple devices used to harness the sun.", "sheets of glass"],
 			"solarStill": ["a ", "solar still", "A still that collects condensation and filters it into a hole beneath the glass, desalinating the water and draining it into a container."],
