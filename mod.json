@@ -1,14 +1,14 @@
 {
-	"name": "[WIP] Russian Translation 2.5.6",
+	"name": "[WIP] Russian Translation 2.6",
 	"description": "Данная модификация добавляет русский язык в игру!\nПеревод находится на стадии разработки!\nСледите за обновлениями и приятной игры!",
-	"version": "0.0.3",
-	"author": "fenymak",
-	"compatibleMinorVersions": [
-		5
-	],
+	"version": "0.0.4",
+	"author": "ma3ok",
 	"unloadable": true,
+	"compatibleMinorVersions": [
+		6
+	],
 	"languages": [
-		"Russian"
+		"russian"
 	],
 	"publishedFileId": "1296176290"
 }
