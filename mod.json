@@ -1,7 +1,7 @@
 {
 	"name": "Russian Translation 2.6",
 	"description": "Данная модификация добавляет русский язык в игру!\nПеревод находится на стадии разработки!\nСледите за обновлениями и приятной игры!",
-	"version": "0.0.4",
+	"version": "0.9.4",
 	"author": "ma3ok",
 	"unloadable": true,
 	"compatibleMinorVersions": [
