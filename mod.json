@@ -1,14 +1,11 @@
 {
-	"name": "Russian Translation 2.6.6",
-	"description": "Мод добавляет русский язык в игру!\nПеревод закончен на 99.9%!\nВключает перевод стартовых заданий.\nВключает перевод (неполный) средств отладки.\nЯзык можно сменить в настройках.\nСледите за обновлениями и приятной игры!",
-	"version": "1.0.4",
-	"author": "ma3ok",
-	"unloadable": true,
-	"compatibleMinorVersions": [
-		6
-	],
+	"name": "Russian Translation 2.10.2",
+	"description": "Мод добавляет русский язык в игру!\nДополнительно включает в себя:\n- Перевод начальных заданий\n- Перевод меню средств отладки\nЯзык можно сменить в настройках.\nСледите за обновлениями и приятной игры!",
+	"version": "2.10.2",
+	"author": "fenymak",
+	"github": "https://github.com/fenymak/Wayward_RussianTranslation",
 	"languages": [
-		"russian"
+		"lang/russian"
 	],
 	"publishedFileId": "1296176290"
 }
