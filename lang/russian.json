@@ -2651,22 +2651,22 @@
 			"reqiredModNotLoaded": "Требуемый мод не загружен.",
 			"localModPrecedence": "Установлен локально; локальные моды имеют приоритет.",
 			"incompatibleVersion": "Несовместим с этой версией.",
-			"serverSideOnNonDedicatedServer": "Server-side mods can only be enabled on dedicated servers."
+			"serverSideOnNonDedicatedServer": "Серверные моды можно включить только на выделенных серверах."
 		},
 		"modLoadFailureReason": {
-			"isDisabled": "{name}@{version} is disabled",
-			"notInstalled": "{name}@{version} is not installed",
-			"notMultiplayerCompatible": "{name}@{version} is not a multiplayer-compatible mod.",
-			"unableToLoad": "Unable to load {name}@{version}",
-			"versionMismatch": "Required {name}@{version}. Currently running version {1}"
+			"isDisabled": "{name}@{version} отключён",
+			"notInstalled": "{name}@{version} не установлен",
+			"notMultiplayerCompatible": "{name}@{version} не совместим с сетевой игрой.",
+			"unableToLoad": "Не удалось загрузить {name}@{version}",
+			"versionMismatch": "Требуется {name}@{version}. Текущая запущенная версия {1}"
 		},
 		"modProvide": {
-			"customizations": "Customizations",
-			"imageOverrides": "Retextures",
-			"languages": "Language",
-			"languageExtensions": "Language Extensions",
-			"scripts": "Scripts",
-			"stylesheets": "Restyles"
+			"customizations": "Персонализация",
+			"imageOverrides": "Смена текстур",
+			"languages": "Язык",
+			"languageExtensions": "Расширение языка",
+			"scripts": "Скрипты",
+			"stylesheets": "Смена стиля"
 		},
 		"modSort": {
 			"name": "Названию",
