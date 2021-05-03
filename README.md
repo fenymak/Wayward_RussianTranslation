@@ -14,3 +14,5 @@
 ![Навыки/Быстрые настройки/Основной прогресс](https://steamuserimages-a.akamaihd.net/ugc/918042487902079951/162EE3E117A9A4CCEB4CEDA908B962DCAFC9CC06 "Навыки/Быстрые настройки/Основной прогресс")
 
 ![Начальные задания/Интерфейс](https://steamuserimages-a.akamaihd.net/ugc/942829293879384170/0BF376D19870DF9E4CDFDCAEFC938CF48C6DAE08 "Начальные задания/Интерфейс")
+
+![Screenshot #1](https://steamuserimages-a.akamaihd.net/ugc/939433370341323325/F2FE99BECD28C11DCFCFA3C502F8A5F0418E5B09/ "Screenshot #1")
